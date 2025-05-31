@@ -3,3 +3,4 @@
 # Important note : 
 - parseInt()
 - toFixed() (dot tofix dite hoy)
+- Number()
