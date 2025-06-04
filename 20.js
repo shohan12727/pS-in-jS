@@ -1,14 +1,14 @@
 // page: 119
 for (let i = 20; i <= 50; i++) {
   if (i % 7 == 0) {
-    // console.log(i);
+    console.log(i);
 
   }
 }
 
 for (let j = 40; j <= 80; j++) {
   if (j % 5 == 0 && j % 7 == 0) {
-    // console.log(j);
+    console.log(j);
 
   }
 }
@@ -22,19 +22,19 @@ for (let k = 1; k <= 40; k++) {
     sum += k;
   }
 }
-// console.log("sum of all divisal number", sum);
+console.log("sum of all divisal number", sum);
 
 
 
 for (let x = 1; x <= 50; x += 4) {
-  // console.log(x);
+  console.log(x);
 }
 
 
 
 for (let m = 0; m <= 100; m++) {
   if (m % 9 == 0 && m % 6 == 0) {
-    // console.log(m);
+    console.log(m);
   }
 }
 
